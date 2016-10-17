@@ -5,5 +5,6 @@
         <file>ListPageForm.ui.qml</file>
         <file>SettingsPage.qml</file>
         <file>SettingsPageForm.ui.qml</file>
+        <file>Sources/EditBack.jpg</file>
     </qresource>
 </RCC>
